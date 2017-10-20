@@ -1,0 +1,10 @@
+.navigation-bar{
+	position: fixed;
+	background-color: #2c3e50;
+}
+
+.logo-fest-on{
+	background: url(../assets/img/logo-fest-on.png) round;
+	width: 207px;
+	height: 77px;
+}
